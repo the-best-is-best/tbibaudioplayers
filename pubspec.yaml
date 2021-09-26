@@ -1,6 +1,6 @@
 name: tbibaudioplayers
-description: A new flutter plugin project.
-version: 0.0.1
+description: A Flutter plugin to play multiple audio files simultaneously.
+version: 0.0.2
 homepage: https://github.com/the-best-is-best/tbibaudioplayers
 
 environment:
@@ -15,6 +15,7 @@ dependencies:
 
   uuid: ^3.0.4
   http: ^0.13.3
+  
   path_provider: ^2.0.5
 
 dev_dependencies:
@@ -41,5 +42,7 @@ flutter:
         pluginClass: tbibaudioplayersPlugin
       macos:
         pluginClass: tbibaudioplayersPlugin
-
+      web:
+        pluginClass: tbibaudioplayersPlugin
+        fileName: web/audioplayers_web.dart
  
