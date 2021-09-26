@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * Sove problem not support web.
+
+## 0.0.2
+
+* Sove problem not support web.
