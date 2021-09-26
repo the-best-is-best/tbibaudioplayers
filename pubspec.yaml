@@ -1,6 +1,6 @@
 name: tbibaudioplayers
 description: A Flutter plugin to play multiple audio files simultaneously.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/the-best-is-best/tbibaudioplayers
 
 environment:

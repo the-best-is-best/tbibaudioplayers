@@ -1,31 +1,5 @@
 # TbibAudioPlayers
 
-[![Pub](https://img.shields.io/pub/v/audioplayers.svg?style=popout)](https://pub.dartlang.org/packages/audioplayers) [![Build Status](https://github.com/luanpotter/audioplayers/workflows/build/badge.svg?branch=master)](https://github.com/luanpotter/audioplayers/actions?query=workflow%3A"build"+branch%3Amaster) [![Discord](https://img.shields.io/discord/509714518008528896.svg)](https://discord.gg/pxrBmy4)
-
-A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, macOS and web.
-
-![](/images/tab1s.jpg) ![](/images/tab2s.jpg) ![](/images/tab3s.jpg)
-
-## Contributing
-
-We now have new rules for contributing!
-
-All help is appreciated but if you have questions, bug reports, issues, feature requests, pull requests, etc, please first refer to our [Contributing Guide](contributing.md).
-
-Also, as always, please give us a star to help!
-
-## Support us
-
-You can support us by becoming a patron on Patreon, any support is much appreciated.
-
-[![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/fireslime)
-
-## Feature Parity Table
-
-Not all features are available on all platforms. [Click here](feature_parity_table.md) to see a table relating what features can be used on each target.
-
-Feel free to use it for ideas for possible PRs and contributions you can help with on our roadmap! If you are submiting a PR, don't forget to update the table.
-
 ## Usage
 
 An `AudioPlayer` instance can play a single audio at a time. To create it, simply call the constructor:
