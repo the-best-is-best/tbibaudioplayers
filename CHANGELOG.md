@@ -6,6 +6,6 @@
 
 * Sove problem not support web.
 
-## 0.0.2
+## 0.0.3
 
-* Sove problem not support web.
+* Sove read me file.
